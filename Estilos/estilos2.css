@@ -1,0 +1,42 @@
+body{
+background-image: linear-gradient(to right, rgb(255, 128, 50), rgb(255, 24, 108));
+}
+.titulo1{
+	position: absolute;
+	top: 5%;
+	left: 33%;
+	width: 33%;
+	height: 10%;
+	text-align: center;
+	text-decoration: none;
+	background: #45AAFF;
+	border-radius: 15px;
+	border: black 5px solid;
+	box-shadow: 5px 5px rgb(0,0,0);
+}
+.titulo1:hover {
+	background-image: linear-gradient(to right, rgb(255, 128, 50), rgb(255, 24, 108));
+}
+.tex1{
+	position: absolute;
+	font-size: 35px;
+	left: 35.5%;
+	top: 13%;
+	color: #000000;
+	font-family: impact;
+	text-shadow: 3px 3px rgb(255,255,255);
+}
+.tex2{
+	position: absolute;
+	font-size: 35px;
+	left: 80%;
+	top: 7%;
+	color: #000000;
+	font-family: impact;
+	text-decoration: none;
+	text-shadow: 3px 3px rgb(255,255,255);
+}
+.tex2:hover {
+	font-size: 45px;
+	color: #FF8032;
+}

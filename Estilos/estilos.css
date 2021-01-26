@@ -1,0 +1,157 @@
+body{
+background-image: linear-gradient(to right, rgb(255, 128, 50), rgb(255, 24, 108));
+}
+.cuadro1{
+	position: absolute;
+	top: 5%;
+	left: 24%;
+	width: 50%;
+	height: 38%;
+	background: #45AAFF;
+	border-radius: 15px;
+	border: black 5px solid;
+	box-shadow: 5px 5px rgb(0,0,0);
+}
+.cuadro1:hover {
+	background-image: linear-gradient(to right, rgb(255, 128, 50), rgb(255, 24, 108));
+}
+.tex1{
+	
+	position: absolute;
+	font-size: 35px;
+	left: 44%;
+	top: 13%;
+	font-family: impact;
+	text-shadow: 3px 3px rgb(255,255,255);
+}
+.tex2{
+	
+	position: absolute;
+	font-size: 35px;
+	left: 44%;
+	top: 40%;
+	font-family: impact;
+	text-shadow: 3px 3px rgb(255,255,255);
+}
+.tex3{
+	
+	position: absolute;
+	font-size: 35px;
+	left: 44%;
+	top: 68%;
+	font-family: impact;
+	text-shadow: 3px 3px rgb(255,255,255);
+}
+.foto1{
+
+	position: absolute;
+	top: 4%;
+	left: 5%;
+	width: 30%;
+	height: 85%;
+	border: black 7px solid;
+	border-radius: 140px
+}
+.cajon1{
+	position: absolute;
+	top: 55%;
+	left: 11%;
+	width: 15%;
+	height: 10%;
+	text-align: center;
+	text-decoration: none;
+	background: #45AAFF;
+	border-radius: 15px;
+	border: black 5px solid;
+	box-shadow: 5px 5px rgb(0,0,0);
+}
+.cajon1:hover {
+	background-image: linear-gradient(to right, rgb(255, 128, 50), rgb(255, 24, 108));
+}
+.tex4{
+	position: absolute;
+	font-size: 35px;
+	left: 15%;
+	top: 14%;
+	transition: 0.8s;
+	font-family: impact;
+	color: #000000;
+	text-shadow: 3px 3px rgb(255,255,255);
+}
+.cajon2{
+	position: absolute;
+	top: 55%;
+	left: 31%;
+	width: 15%;
+	height: 10%;
+	text-align: center;
+	text-decoration: none;
+	background: #45AAFF;
+	border-radius: 15px;
+	border: black 5px solid;
+	box-shadow: 5px 5px rgb(0,0,0);
+}
+.cajon2:hover {
+	background-image: linear-gradient(to right, rgb(255, 128, 50), rgb(255, 24, 108));
+}
+.tex5{
+	
+	position: absolute;
+	font-size: 35px;
+	left: 15%;
+	top: 14%;
+	transition: 0.8s;
+	font-family: impact;
+	color: #000000;
+	text-shadow: 3px 3px rgb(255,255,255);
+}
+.cajon3{
+	position: absolute;
+	top: 55%;
+	left: 51%;
+	width: 15%;
+	height: 10%;
+	background: #45AAFF;
+	border-radius: 15px;
+	border: black 5px solid;
+	box-shadow: 5px 5px rgb(0,0,0);
+}
+.cajon3:hover {
+	background-image: linear-gradient(to right, rgb(255, 128, 50), rgb(255, 24, 108));
+}
+.tex6{
+	
+	position: absolute;
+	font-size: 35px;
+	left: 15%;
+	top: 14%;
+	transition: 0.8s;
+	font-family: impact;
+	color: #000000;
+	text-shadow: 3px 3px rgb(255,255,255);
+}
+.cajon4{
+	position: absolute;
+	top: 55%;
+	left: 71%;
+	width: 15%;
+	height: 10%;
+	background: #45AAFF;
+	border-radius: 15px;
+	border: black 5px solid;
+	box-shadow: 5px 5px rgb(0,0,0);
+}
+.cajon4:hover {
+	background-image: linear-gradient(to right, rgb(255, 128, 50), rgb(255, 24, 108));
+}
+.tex7{
+	
+	position: absolute;
+	font-size: 35px;
+	left: 15%;
+	top: 14%;
+	transition: 0.8s;
+	font-family: impact;
+	color: #000000;
+	text-shadow: 3px 3px rgb(255,255,255);
+}
