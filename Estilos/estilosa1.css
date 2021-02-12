@@ -17,6 +17,20 @@ background-image: linear-gradient(to right, rgb(255, 128, 50), rgb(255, 24, 108)
 .titulo1:hover {
 	background-image: linear-gradient(to right, rgb(255, 128, 50), rgb(255, 24, 108));
 }
+.re{
+	position: absolute;
+	font-size: 35px;
+	left: 75%;
+	top: 7%;
+	color: #000000;
+	font-family: impact;
+	text-decoration: none;
+	text-shadow: 3px 3px rgb(255,255,255);
+}
+.re:hover {
+	font-size: 45px;
+	color: #FF8032;
+}
 .tex1{
 	position: absolute;
 	font-size: 35px;
@@ -448,8 +462,6 @@ background-image: linear-gradient(to right, rgb(255, 128, 50), rgb(255, 24, 108)
 	left: 45%;
 	width: 40%;
 	height: 60%;
-	
-
 }
 @font-face{
 	font-family: buenas;
