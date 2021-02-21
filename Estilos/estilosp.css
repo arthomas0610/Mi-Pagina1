@@ -20,7 +20,7 @@ background-image: linear-gradient(to right, rgb(255, 128, 50), rgb(255, 24, 108)
 .tex1{
 	position: absolute;
 	font-size: 35px;
-	left: 35.5%;
+	left: 39%;
 	top: 13%;
 	color: #000000;
 	font-family: impact;
@@ -40,53 +40,52 @@ background-image: linear-gradient(to right, rgb(255, 128, 50), rgb(255, 24, 108)
 	font-size: 45px;
 	color: #FF8032;
 }
-.acti1{
+.ima{
+
 	position: absolute;
 	top: 35%;
-	left: 15%;
-	width: 20%;
-	height: 10%;
-	text-align: center;
-	text-decoration: none;
-	background: #45AAFF;
-	border-radius: 15px;
-	border: black 5px solid;
-	box-shadow: 5px 5px rgb(0,0,0);
+	left: 5%;
+	border: black 7px solid;
+}
+.ima1{
+
+	position: absolute;
+	top: 130%;
+	left: 5%;
+	border: black 7px solid;
+}
+.ima2{
+
+	position: absolute;
+	top: 223%;
+	left: 5%;
+	border: black 7px solid;
 }
 .tex3{
 	position: absolute;
-	font-size: 35px;
-	left: 20%;
-	top: 13%;
+	font-size: 30px;
+	left: 5%;
 	color: #000000;
-	font-family: impact;
+	font-family: buenas;
 	text-shadow: 3px 3px rgb(255,255,255);
+	display: block;
 }
-.acti1:hover {
-	background-image: linear-gradient(to right, rgb(255, 128, 50), rgb(255, 24, 108));
-}
-.parcial{
+.boton1{
 	position: absolute;
-	top: 65%;
-	left: 15%;
-	width: 20%;
-	height: 10%;
-	text-align: center;
+	top: 300%;
+	left: 5%;
+	width: 75%;
+	height: 50%;
 	text-decoration: none;
 	background: #45AAFF;
 	border-radius: 15px;
 	border: black 5px solid;
 	box-shadow: 5px 5px rgb(0,0,0);
 }
-.tex4{
-	position: absolute;
-	font-size: 35px;
-	left: 30%;
-	top: 13%;
-	color: #000000;
-	font-family: impact;
-	text-shadow: 3px 3px rgb(255,255,255);
-}
-.parcial:hover {
+.boton1:hover {
 	background-image: linear-gradient(to right, rgb(255, 128, 50), rgb(255, 24, 108));
+}
+@font-face{
+	font-family: buenas;
+	src:url("../Fuentes/letra.otf");
 }
