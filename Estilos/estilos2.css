@@ -90,3 +90,28 @@ background-image: linear-gradient(to right, rgb(255, 128, 50), rgb(255, 24, 108)
 .parcial:hover {
 	background-image: linear-gradient(to right, rgb(255, 128, 50), rgb(255, 24, 108));
 }
+.acti2{
+	position: absolute;
+	top: 35%;
+	left: 60%;
+	width: 20%;
+	height: 10%;
+	text-align: center;
+	text-decoration: none;
+	background: #45AAFF;
+	border-radius: 15px;
+	border: black 5px solid;
+	box-shadow: 5px 5px rgb(0,0,0);
+}
+.tex5{
+	position: absolute;
+	font-size: 35px;
+	left: 23%;
+	top: 13%;
+	color: #000000;
+	font-family: impact;
+	text-shadow: 3px 3px rgb(255,255,255);
+}
+.acti2:hover {
+	background-image: linear-gradient(to right, rgb(255, 128, 50), rgb(255, 24, 108));
+}

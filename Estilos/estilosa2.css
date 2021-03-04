@@ -1,0 +1,353 @@
+body{
+background-image: linear-gradient(to right, rgb(255, 128, 50), rgb(255, 24, 108));
+}
+.titulo1{
+	position: absolute;
+	top: 5%;
+	left: 33%;
+	width: 33%;
+	height: 10%;
+	text-align: center;
+	text-decoration: none;
+	background: #45AAFF;
+	border-radius: 15px;
+	border: black 5px solid;
+	box-shadow: 5px 5px rgb(0,0,0);
+}
+.titulo1:hover {
+	background-image: linear-gradient(to right, rgb(255, 128, 50), rgb(255, 24, 108));
+}
+.re{
+	position: absolute;
+	font-size: 35px;
+	left: 75%;
+	top: 7%;
+	color: #000000;
+	font-family: buenas;
+	text-decoration: none;
+	text-shadow: 3px 3px rgb(255,255,255);
+}
+.re:hover {
+	font-size: 45px;
+	color: #FF8032;
+}
+.tex1{
+	position: absolute;
+	font-size: 50px;
+	left: 34%;
+	top: 13%;
+	color: #000000;
+	font-family: buenas;
+	text-shadow: 3px 3px rgb(255,255,255);
+}
+.cuadro1{
+	position: absolute;
+	top: 30%;
+	left: 24%;
+	width: 50%;
+	height: 8%;
+	text-align: center;
+	text-decoration: none;
+	background: #45AAFF;
+	border-radius: 15px;
+	border: black 5px solid;
+	box-shadow: 5px 5px rgb(0,0,0);
+}
+.cuadro1:hover {
+	background-image: linear-gradient(to right, rgb(255, 128, 50), rgb(255, 24, 108));
+}
+.tex6{
+	position: absolute;
+	font-size: 40px;
+	left: 3%;
+	top: 14%;
+	color: #000000;
+	text-decoration: none;
+	font-family: buenas;
+	text-shadow: 3px 3px rgb(255,255,255);
+}
+.tex6:hover{
+	font-size: 35px;
+	transition: 0.5s;
+}
+.tex7{
+	position: absolute;
+	font-size: 40px;
+	left: 45%;
+	top: 15%;
+	color: #000000;
+	text-decoration: none;
+	font-family: buenas;
+	text-shadow: 3px 3px rgb(255,255,255);
+}
+.tex7:hover{
+	font-size: 35px;
+	transition: 0.5s;
+}
+.tex8{
+	position: absolute;
+	font-size: 40px;
+	left: 78%;
+	top: 15%;
+	color: #000000;
+	text-decoration: none;
+	font-family: buenas;
+	text-shadow: 3px 3px rgb(255,255,255);
+}
+.tex8:hover {
+	font-size: 35px;
+	transition: 0.5s;
+}
+.cuadro2{
+	position: absolute;
+	top: 70%;
+	left: 6%;
+	width: 25%;
+	height: 10%;
+	text-align: center;
+	text-decoration: none;
+	background: #45AAFF;
+	border-radius: 15px;
+	border: black 5px solid;
+	box-shadow: 5px 5px rgb(0,0,0);
+}
+.cuadro2:hover {
+	background-image: linear-gradient(to right, rgb(255, 128, 50), rgb(255, 24, 108));
+}
+.tex9{
+	position: absolute;
+	font-size: 50px;
+	left: 20%;
+	top: 13%;
+	color: #000000;
+	text-decoration: none;
+	font-family: buenas;
+	text-shadow: 3px 3px rgb(255,255,255);
+}
+.tex10{
+	position: absolute;
+	font-size: 35px;
+	left: 5%;
+	top: 85%;
+	color: #000000;
+	font-family: buenas;
+	text-shadow: 3px 3px rgb(255,255,255);
+}
+.cir1{
+	position: absolute;
+	top: 105%;
+	left: 58%;
+	width: 2.4%;
+	height: 5%;
+	background: #45AAFF;
+	border-radius: 50px;
+	border: black 5px solid;
+	box-shadow: 2px 2px rgb(0,0,0);
+}
+.cir1:hover {
+	background-image: linear-gradient(to right, rgb(255, 128, 50), rgb(255, 24, 108));
+}
+.ima1{
+	display: none;
+}
+.cir1:hover .ima1{
+	position: absolute;
+	left: 185%;
+	top: -40px;
+	display: block;
+	border: black 5px solid;
+}
+.tex11{
+	position: absolute;
+	font-size: 35px;
+	left: 5%;
+	top: 142%;
+	text-decoration: none;
+	color: #8632FF;
+	font-family: buenas;
+	text-shadow: 3px 3px rgb(255,255,255);
+}
+.cuadro3{
+	position: absolute;
+	top: 180%;
+	left: 6%;
+	width: 25%;
+	height: 10%;
+	text-align: center;
+	text-decoration: none;
+	background: #45AAFF;
+	border-radius: 15px;
+	border: black 5px solid;
+	box-shadow: 5px 5px rgb(0,0,0);
+}
+.cuadro3:hover {
+	background-image: linear-gradient(to right, rgb(255, 128, 50), rgb(255, 24, 108));
+}
+.tex12{
+	position: absolute;
+	font-size: 50px;
+	left: 40%;
+	top: 13%;
+	color: #000000;
+	text-decoration: none;
+	font-family: buenas;
+	text-shadow: 3px 3px rgb(255,255,255);
+}
+.tex13{
+	position: absolute;
+	font-size: 35px;
+	left: 5%;
+	top: 195%;
+	color: #000000;
+	font-family: buenas;
+	text-shadow: 3px 3px rgb(255,255,255);
+}
+.ima2{
+	position: absolute;
+	left: 60%;
+	top: 200%;
+	width: 35%;
+	height: 40%;
+	border: black 5px solid;
+	display: block;
+}
+.tex14{
+	position: absolute;
+	font-size: 35px;
+	left: 5%;
+	top: 235%;
+	text-decoration: none;
+	color: #8632FF;
+	font-family: buenas;
+	text-shadow: 3px 3px rgb(255,255,255);
+}
+.cuadro4{
+	position: absolute;
+	top: 300%;
+	left: 6%;
+	width: 25%;
+	height: 10%;
+	text-align: center;
+	text-decoration: none;
+	background: #45AAFF;
+	border-radius: 15px;
+	border: black 5px solid;
+	box-shadow: 5px 5px rgb(0,0,0);
+}
+.cuadro4:hover {
+	background-image: linear-gradient(to right, rgb(255, 128, 50), rgb(255, 24, 108));
+}
+.tex15{
+	position: absolute;
+	font-size: 50px;
+	left: 30%;
+	top: 13%;
+	color: #000000;
+	text-decoration: none;
+	font-family: buenas;
+	text-shadow: 3px 3px rgb(255,255,255);
+}
+.tex16{
+	position: absolute;
+	font-size: 35px;
+	left: 5%;
+	top: 315%;
+	color: #000000;
+	text-decoration: none;
+	font-family: buenas;
+	text-shadow: 3px 3px rgb(255,255,255);
+}
+.tex17{
+	position: absolute;
+	font-size: 35px;
+	left: 5%;
+	top: 330%;
+	color: #003EFF;
+	text-decoration: none;
+	font-family: buenas;
+	text-shadow: 3px 3px rgb(255,255,255);
+}
+.ima3{
+	display: none;
+}
+.tex17:hover .ima3{
+	position: absolute;
+	left: 200px;
+	top: 100%;
+	border: black 5px solid;
+	display: block;
+}
+.tex18{
+	position: absolute;
+	font-size: 35px;
+	left: 5%;
+	top: 340%;
+	color: #003EFF;
+	text-decoration: none;
+	font-family: buenas;
+	text-shadow: 3px 3px rgb(255,255,255);
+}
+.ima4{
+	display: none;
+}
+.tex18:hover .ima4{
+	position: absolute;
+	left: 200px;
+	top: 60%;
+	border: black 5px solid;
+	display: block
+}
+.tex19{
+	position: absolute;
+	font-size: 35px;
+	left: 5%;
+	top: 350%;
+	color: #003EFF;
+	text-decoration: none;
+	font-family: buenas;
+	text-shadow: 3px 3px rgb(255,255,255);
+}
+.ima5{
+	display: none;
+}
+.tex19:hover .ima5{
+	position: absolute;
+	left: 200px;
+	top: -160%;
+	border: black 5px solid;
+	display: block
+}
+.tex20{
+	position: absolute;
+	font-size: 35px;
+	left: 5%;
+	top: 360%;
+	color: #003EFF;
+	text-decoration: none;
+	font-family: buenas;
+	text-shadow: 3px 3px rgb(255,255,255);
+}
+.ima6{
+	display: none;
+}
+.tex20:hover .ima6{
+	position: absolute;
+	left: 200px;
+	top: -260%;
+	border: black 5px solid;
+	display: block
+}
+.tex21{
+	position: absolute;
+	font-size: 45px;
+	left: 45%;
+	top: 302%;
+	text-decoration: none;
+	color: #8632FF;
+	font-family: buenas;
+	text-shadow: 3px 3px rgb(255,255,255);
+}
+@font-face{
+	font-family: buenas;
+	src:url("../Fuentes/letra3.ttf");
+}
